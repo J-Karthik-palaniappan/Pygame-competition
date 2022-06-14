@@ -212,7 +212,7 @@ class level:
             pygame.display.update()
             time.sleep(2)
         elif self.p2_score==10 and self.state==1:
-            self.font.render('You won!',False,'green')
+            txt=font.render('You won!',False,'green')
             self.screen.blit(txt, txt.get_rect(center=(width//2,height//2)))
             self.over=True
             pygame.display.update()
