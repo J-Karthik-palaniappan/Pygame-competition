@@ -19,3 +19,4 @@ The left board can be moved by 'w->up','s->down' and right board by 'up key' and
 In single player mode the left is played by computer and the player can control the right board.
 
 Hope you enjoy the game!
+![image](https://github.com/J-Karthik-palaniappan/Pygame-competition/assets/99670301/54b6087e-55b9-448b-9caf-b04afdace254)
