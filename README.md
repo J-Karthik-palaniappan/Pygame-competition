@@ -20,3 +20,5 @@ In single player mode the left is played by computer and the player can control 
 
 Hope you enjoy the game!
 ![image](https://github.com/J-Karthik-palaniappan/Pygame-competition/assets/99670301/54b6087e-55b9-448b-9caf-b04afdace254)
+
+![image](https://github.com/J-Karthik-palaniappan/Pygame-competition/assets/99670301/daf7cdac-e6c9-4cc0-92ed-87c9dca9b76d)
